@@ -1,0 +1,29 @@
+{
+    "states" : [
+    {
+        "Name":"Karnataka",
+        "Abbreviation":"KAR",
+        "Location":"South"
+    },
+    {
+        "Name":"Tamil Nadu",
+        "Abbreviation":"TN",
+        "Location":"South"
+    },
+    {
+        "Name":"Uttar Pradesh",
+        "Abbreviation":"UP",
+        "Location":"North"
+    },
+    {
+        "Name":"Assam",
+        "Abbreviation":"ASS",
+        "Location":"East"
+    },
+    {
+        "Name":"Gujurat",
+        "Abbreviation":"GUJ",
+        "Location":"West"
+    }
+]
+}
